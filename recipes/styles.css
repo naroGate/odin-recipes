@@ -1,0 +1,31 @@
+body {
+    background-color: #f8d3c5;
+}
+
+h1 {
+    background-color: #a3b899;
+    color:  	#f8d3c5;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+.desc {
+    background-color: #fceee9;
+    color: 	#a3b899;
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
+
+h2 {
+    background-color: #dde6d5;
+    color: 	#f8d3c5;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.box {
+    background-color: #dde6d5;
+    color: #667b68;
+    font-family: 'Courier New', Courier, monospace;
+}

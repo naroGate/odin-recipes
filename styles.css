@@ -1,0 +1,17 @@
+body {
+    background-color: #667b68;
+}
+
+h1 {
+    color:  	 	#667b68;
+    background-color: #f8d3c5;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+.box {
+    color: #fceee9;
+    background-color: #dde6d5;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
